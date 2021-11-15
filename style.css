@@ -43,7 +43,7 @@ text-align:left;
 }
 .fa-bars
 {
-	color:#000000;
+	color:#fff;
 	font-size:30p !important;
 }
 .navbar-toggler
@@ -56,8 +56,8 @@ text-align:left;
 	text-align: center;
 	font-weight: bold ;
 
-background-color:#6063e4;
-color:#000000;
+background-color:#031103;
+color:#fff;
 padding-top:5%;	
 }
 .container h1 {
@@ -78,7 +78,7 @@ padding-top:5%;
  {
      text-align: center;
 	 font-family:'Oxygen',sans-serif;
-	 padding: 10% 15%; background-image:url("./IMG_15022021_130857_\(1600_x_600_pixel\).jpg");
+	 padding: 10% 15%; background-image:url("IMG_BANK(1200_x_900_pixel).jpg");
 	
  }
  .features1 h3
@@ -161,7 +161,7 @@ padding-top:5%;
 /* footer */
 #footer{
 	font-family:'Oxygen',sans-serif;
-	background-color:#0a0b3b;
+	background-color:#031103;
     color:#fff;
     padding: 5.5% 25%;
     text-align: center;
