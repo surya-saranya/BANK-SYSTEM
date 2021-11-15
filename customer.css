@@ -5,13 +5,13 @@
 }
 #nav-bar
 {
-	background-color:d42480;
+	background-color:031103;
 	position:static;
 	top:0;
 	z-index:10;
 }
 .nav-link:hover {
-	background-image: url('C:\Users\hp\Desktop\banking-system-main\IMG_15022021_130857_(1600_x_600_pixel) (2).jpg');
+	background-image: url('C:\Users\hp\Desktop\banking-system-main\IMG_BANK(1200_x_900_pixel).jpg');
 }
 .nav-link {
 	font-family:'Oxygen',sans-serif;
