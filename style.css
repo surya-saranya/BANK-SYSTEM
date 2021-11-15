@@ -8,7 +8,7 @@ body
 }
 #nav-bar
 {
-	background-color:#6063e4;
+	background-color:#DC143C;
 	position:static;
 	top:0;
 	z-index:10;
@@ -43,7 +43,7 @@ text-align:left;
 }
 .fa-bars
 {
-	color:#808080;
+	color:#000000;
 	font-size:30p !important;
 }
 .navbar-toggler
@@ -57,7 +57,7 @@ text-align:left;
 	font-weight: bold ;
 
 background-color:#6063e4;
-color:#808080;
+color:#000000;
 padding-top:5%;	
 }
 .container h1 {
